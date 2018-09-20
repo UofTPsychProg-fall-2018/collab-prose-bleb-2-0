@@ -1,2 +1,16 @@
+<<<<<<< HEAD
 One day, a group of grad students took computer programming class in psychology program. Their first homework was to make up a story together with GitHub. Then the story went, "One day, a group of grad students took computer programming class in psychology program. Their first homework was to make up a story together with GitHub. Then the story went, 'One day, ...
 Well, this story can always go on and on and on .. our story would be the longest one!
+=======
+Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program. Their first homework was to make up a story together with GitHub. 
+Then the story went, "Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program. Their first homework was to make up a story together with GitHub. Then the story went, "Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program. Their first homework was to make up a story together with GitHub. Then the story went, "Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program. Their first homework was to make up a story together with GitHub. Then the story went, "Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program. Their first homework was to make up a story together with GitHub. Then the story went, 'Once upon a time, ...
+Well, this story can always go on and on and on .. our story would be the longest one!
+And the group of startlingly creative and witty grad students lived happily ever after.
+THE END
+
+
+
+
+Or IS IT?
+dun dun dunnnnn
+>>>>>>> upstream/submission
