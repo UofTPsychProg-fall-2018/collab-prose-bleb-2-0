@@ -1,11 +1,21 @@
-Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program. Their first homework was to make up a story together with GitHub. 
-Then the story went: "Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program. Their first homework was to make up a story together with GitHub. 
-Then the story went: "Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program. Their first homework was to make up a story together with GitHub. 
-Then the story went: "Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program. Their first homework was to make up a story together with GitHub. 
-Then the story went: "Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program. Their first homework was to make up a story together with GitHub. 
-Then the story went, 'Once upon a time, ...
-The group of startlingly creative and witty grad students continued writing, and writing, and writing some more! 
+Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program.
+Their first homework was to make up a story together with GitHub. Then the story went: 
+ "Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program.
+  Their first homework was to make up a story together with GitHub. Then the story went: 
+  "Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program.
+   Their first homework was to make up a story together with GitHub. Then the story went: 
+   "Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program.
+    Their first homework was to make up a story together with GitHub. Then the story went: 
+    "Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program.
+     Their first homework was to make up a story together with GitHub. Then the story went:
+     "Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program.
+      Their first homework was to make up a story together with GitHub. Then the story went: 
+      "Once upon a time, a group of startlingly creative and witty grad students took a computer programming class in the psychology program. 
+       Their first homework was to make up a story together with GitHub. Then the story went: 
+'Once upon a time, ...
+  The group of startlingly creative and witty grad students continued writing, and writing, and writing some more! 
 Well, their story can always go on and on and on ... it would be the longest one!
+With this realization, the group concluded their story with a feeling of deep accomplishment.
 And the group of startlingly creative and witty grad students lived happily ever after.
 THE END
 
